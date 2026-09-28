@@ -1,2 +1,2 @@
 # On-the-limitations-of-molecular-representations
-Repository for assessing molecular representations.
+This repository provides code for assessing learned and classical molecular representations.
