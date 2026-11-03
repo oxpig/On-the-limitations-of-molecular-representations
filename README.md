@@ -3,8 +3,8 @@ This repository provides code for assessing learned and classical molecular repr
 
 ## Abstract
 
-Molecular representations such as fingerprints and learned embeddings play a central role in chemin-
-formatics and small-molecule machine learning. They serve as the primary input for a diverse array of
+Molecular representations such as fingerprints and learned embeddings play a central role in cheminformatics 
+and small-molecule machine learning. They serve as the primary input for a diverse array of
 tasks, including clustering, dataset splitting, and virtual screening, yet their evaluation is often limited to
 downstream model performance on narrow benchmark tasks. We carried out a systematic investigation
 of the quality of molecular representations, finding that none of the state-of-the-art molecular embedding
