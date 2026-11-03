@@ -18,7 +18,7 @@ research directions for the development of more robust encodings of small molecu
 ## Requirements 
 
 This repository contains evaluations for 14 molecular representations, including four fingerprints, a physicochemical 
-descriptor vector and 9 molecular embedding models. Most molecular embedding models require different versions of python
+descriptor vector and 9 molecular embedding models. Most molecular embedding models require different versions of Python
 and popular machine-learning packages such as PyTorch and NumPy. We therefore suggest creating a separate conda environment
 for each molecular embedding model. We provide YAML files required to recreate conda the environments used for this paper.
 More details are available in the *project structure* section below.
@@ -26,12 +26,13 @@ More details are available in the *project structure* section below.
 ## Project structure
 
 There are six primary folders for this project:
-- **ADMET similarity**: contains evaluations for
-- **Butina clustering**:
-- **Degeneracy analyses**:
-- **MCES**:
-- **Molecular embeddings**:
-- **Shape similarity**:
+- **ADMET similarity**: contains ADMET endpoint similarity evaluations for the Biogen dataset (Extended Data Figures 3 and 4).
+- **Butina clustering**: contains Butina cluster data leakage evaluations for the ECFP4 representation (Figure 5).
+- **Degeneracy analyses**: contains degeneracy analysis code for Enamine REAL and ChEMBL 37 (Figures 1 and 3).
+- **MCES**: contains preprocessing and evaluations (Extended Data Figure 1).
+- **Molecular embeddings**: contains YAML files and notebooks for generating molecular embeddings for ZINC, Biogen, and the MCES dataset.
+- **Shape similarity**: contains code for evaluating correlations between cosine and Tanimoto similarities against maximal conformational overlap
+  (Figure 2).
 
 The full project tree is given below:
 <details>
