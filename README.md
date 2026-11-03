@@ -25,7 +25,8 @@ for each molecular embedding model.
 
 <details>
 <summary>📂 Click to expand project structure</summary>
-.
+
+```text
 ├── ADMET similarity
 │   ├── ADMET similarity.ipynb
 │   └── ROGI correlation with performance.ipynb
@@ -82,6 +83,7 @@ for each molecular embedding model.
 ├── README.md
 └── Shape similarity
     └── Shape and color scoring.ipynb
+```
 <details>
 
 ## Citing this work
