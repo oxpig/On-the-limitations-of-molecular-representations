@@ -25,6 +25,14 @@ More details are available in the *project structure* section below.
 
 ## Project structure
 
+There are six primary folders for this project:
+- ADMET similarity: contains evaluations for
+- Butina clustering:
+- Degeneracy analyses:
+- MCES:
+- Molecular embeddings:
+- Shape similarity:
+
 <details>
 <summary>📂 Click to expand project structure</summary>
 
@@ -90,5 +98,16 @@ More details are available in the *project structure* section below.
 
 ## Citing this work
 
+If you wish to cite this work, please use the following reference:
+
+```bibtex
+@article{Blake2026,
+  title   = {On the limitations of molecular representations},
+  author  = {Blake, Acer and Imrie, Fergus and M. Deane, Charlotte},
+  journal = {ArXiV},
+  year    = {2026},
+  doi     = {10.xxxx/xxxxx}
+}
+```
 
 
