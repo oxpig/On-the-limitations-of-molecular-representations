@@ -95,7 +95,6 @@ The full project tree is given below:
 └── Shape similarity
     └── Shape and color scoring.ipynb
 ```
-<\details>
 
 ## Citing this work
 
