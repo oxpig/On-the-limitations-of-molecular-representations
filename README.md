@@ -26,12 +26,12 @@ More details are available in the *project structure* section below.
 ## Project structure
 
 There are six primary folders for this project:
-- ADMET similarity: contains evaluations for
-- Butina clustering:
-- Degeneracy analyses:
-- MCES:
-- Molecular embeddings:
-- Shape similarity:
+- **ADMET similarity**: contains evaluations for
+- **Butina clustering**:
+- **Degeneracy analyses**:
+- **MCES**:
+- **Molecular embeddings**:
+- **Shape similarity**:
 
 <details>
 <summary>📂 Click to expand project structure</summary>
