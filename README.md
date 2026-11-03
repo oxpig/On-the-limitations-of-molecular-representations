@@ -18,8 +18,10 @@ research directions for the development of more robust encodings of small molecu
 ## Requirements 
 
 This repository contains evaluations for 14 molecular representations, including four fingerprints, a physicochemical 
-descriptor vector and 9 molecular embedding models. We provide YAML files required to recreate conda environments
-for each molecular embedding model.
+descriptor vector and 9 molecular embedding models. Most molecular embedding models require different versions of python
+and popular machine-learning packages such as PyTorch and NumPy. We therefore suggest creating a separate conda environment
+for each molecular embedding model. We provide YAML files required to recreate conda the environments used for this paper.
+More details are available in the *project structure* section below.
 
 ## Project structure
 
