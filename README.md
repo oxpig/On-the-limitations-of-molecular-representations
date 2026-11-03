@@ -1,5 +1,5 @@
 # On-the-limitations-of-molecular-representations
-This repository provides code for assessing learned and classical molecular representations.
+This repository provides code for assessing learned molecular embeddings and classical molecular representations.
 
 ## Abstract
 
