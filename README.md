@@ -33,6 +33,7 @@ There are six primary folders for this project:
 - **Molecular embeddings**:
 - **Shape similarity**:
 
+The full project tree is given below:
 <details>
 <summary>📂 Click to expand project structure</summary>
 
