@@ -108,7 +108,7 @@ If you wish to cite this work, please use the following reference:
   author  = {Blake, Acer and Imrie, Fergus and M. Deane, Charlotte},
   journal = {ArXiV},
   year    = {2026},
-  doi     = {10.xxxx/xxxxx}
+  doi     = {https://doi.org/10.48550/arXiv.2611.08420}
 }
 ```
 
