@@ -1,0 +1,11 @@
+model_type,model,matrix_file,interval,lower_edge,upper_edge,interval_label
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,1,-0.23397944867610931,-0.11058150380849838,"[-0.23397945, -0.11058150)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,2,-0.11058150380849838,0.01281644105911256,"[-0.11058150, 0.01281644)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,3,0.01281644105911256,0.13621438592672352,"[0.01281644, 0.13621439)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,4,0.13621438592672352,0.25961233079433443,"[0.13621439, 0.25961233)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,5,0.25961233079433443,0.38301027566194534,"[0.25961233, 0.38301028)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,6,0.38301027566194534,0.5064082205295564,"[0.38301028, 0.50640822)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,7,0.5064082205295564,0.6298061653971673,"[0.50640822, 0.62980617)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,8,0.6298061653971673,0.7532041102647782,"[0.62980617, 0.75320411)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,9,0.7532041102647782,0.8766020551323892,"[0.75320411, 0.87660206)"
+Embedding,MolBERT,MolBERT ZINC30K embeddings_cosine_similarity.npy,10,0.8766020551323892,1.0,"[0.87660206, 1.00000000]"

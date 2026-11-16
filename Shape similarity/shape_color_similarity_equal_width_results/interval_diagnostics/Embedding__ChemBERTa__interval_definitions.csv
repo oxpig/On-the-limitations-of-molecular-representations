@@ -1,0 +1,11 @@
+model_type,model,matrix_file,interval,lower_edge,upper_edge,interval_label
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,1,-0.14706557989120483,-0.03235902190208435,"[-0.14706558, -0.03235902)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,2,-0.03235902190208435,0.08234753608703613,"[-0.03235902, 0.08234754)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,3,0.08234753608703613,0.1970540940761566,"[0.08234754, 0.19705409)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,4,0.1970540940761566,0.3117606520652771,"[0.19705409, 0.31176065)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,5,0.3117606520652771,0.4264672100543976,"[0.31176065, 0.42646721)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,6,0.4264672100543976,0.541173768043518,"[0.42646721, 0.54117377)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,7,0.541173768043518,0.6558803260326386,"[0.54117377, 0.65588033)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,8,0.6558803260326386,0.770586884021759,"[0.65588033, 0.77058688)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,9,0.770586884021759,0.8852934420108796,"[0.77058688, 0.88529344)"
+Embedding,ChemBERTa,ChemBERTa ZINC30K embeddings_cosine_similarity.npy,10,0.8852934420108796,1.0,"[0.88529344, 1.00000000]"

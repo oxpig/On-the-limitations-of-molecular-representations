@@ -1,0 +1,11 @@
+model_type,model,matrix_file,interval,lower_edge,upper_edge,interval_label
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,1,0.09303832054138184,0.18373406529426575,"[0.09303832, 0.18373407)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,2,0.18373406529426575,0.27442981004714967,"[0.18373407, 0.27442981)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,3,0.27442981004714967,0.3651255548000336,"[0.27442981, 0.36512555)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,4,0.3651255548000336,0.4558212995529175,"[0.36512555, 0.45582130)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,5,0.4558212995529175,0.5465170443058014,"[0.45582130, 0.54651704)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,6,0.5465170443058014,0.6372127890586854,"[0.54651704, 0.63721279)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,7,0.6372127890586854,0.7279085338115693,"[0.63721279, 0.72790853)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,8,0.7279085338115693,0.8186042785644532,"[0.72790853, 0.81860428)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,9,0.8186042785644532,0.9093000233173371,"[0.81860428, 0.90930002)"
+Embedding,CheMeleon,CheMeleon ZINC30K embeddings_cosine_similarity.npy,10,0.9093000233173371,0.999995768070221,"[0.90930002, 0.99999577]"

@@ -1,0 +1,11 @@
+model_type,model,matrix_file,interval,lower_edge,upper_edge,interval_label
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,1,0.3810000717639923,0.44290006458759307,"[0.38100007, 0.44290006)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,2,0.44290006458759307,0.5048000574111938,"[0.44290006, 0.50480006)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,3,0.5048000574111938,0.5667000502347946,"[0.50480006, 0.56670005)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,4,0.5667000502347946,0.6286000430583953,"[0.56670005, 0.62860004)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,5,0.6286000430583953,0.6905000358819962,"[0.62860004, 0.69050004)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,6,0.6905000358819962,0.752400028705597,"[0.69050004, 0.75240003)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,7,0.752400028705597,0.8143000215291978,"[0.75240003, 0.81430002)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,8,0.8143000215291978,0.8762000143527985,"[0.81430002, 0.87620001)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,9,0.8762000143527985,0.9381000071763993,"[0.87620001, 0.93810001)"
+Embedding,UniMol,UniMol ZINC30K embeddings_cosine_similarity.npy,10,0.9381000071763993,1.0,"[0.93810001, 1.00000000]"
