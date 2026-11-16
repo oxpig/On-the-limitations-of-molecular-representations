@@ -26,7 +26,7 @@ More details are available in the *project structure* section below.
 
 ## Project structure
 
-There are six primary folders for this project:
+There are seven primary folders for this project:
 - **ADMET similarity**: contains ADMET endpoint similarity evaluations for the Biogen dataset (Extended Data Figures 3 and 4).
 - **Butina clustering**: contains Butina cluster data leakage evaluations for the ECFP4 representation (Figure 5).
 - **Datasets**: contains the MCES, ZINC30K and Biogen datasets used for the analyses in this paper. \
