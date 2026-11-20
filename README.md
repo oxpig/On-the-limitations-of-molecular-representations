@@ -36,7 +36,7 @@ There are seven primary folders for this project:
 - **MCES**: contains preprocessing and evaluations (Extended Data Figure 1).
 - **Molecular embeddings**: contains YAML files and notebooks for generating molecular embeddings for ZINC, Biogen, and the MCES dataset.
 - **Shape similarity**: contains code for evaluating correlations between cosine and Tanimoto similarities against maximal conformational overlap
-  (Figure 2).
+  (Extended Data Figure 2).
 
 The full project tree is given below:
 <details>
